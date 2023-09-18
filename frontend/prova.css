@@ -1,0 +1,14 @@
+input{
+    width:30%;
+}
+#gradeConfig{
+    width:30%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#gradeConfig input{
+   width:45%;
+}

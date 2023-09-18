@@ -1,0 +1,24 @@
+O site consites em uma ferramenta de auto correção de provas;
+O professor passa sua prova e as respostas sejam dissertivas ou acertativas;
+O sistema lê a folha e processa as respostas do aluno, ao fim dando o número de acertos e a nota;
+
+Em respostas dissertativas poder ser uzado algum sistema de métricas ou inteligência artificial para analize da resposta;
+
+Pontos a pensar:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Como fazer a ferramenta corrigir a prova de forma fisica? recebe imagens da prova e faz uma analize, no caso de dissertativa é necessário
+fazer uma conversão do manuscrito para texto virtual, a partir disso fazer uma reimpressão da prova corrigida; 
+
+Já existe? por que o meu é melhor ou inovador?
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Como fazer?:
+
+Uma das linguagens mais usadas para leitura e interpretação de imagens é o python, então essa é uma boa;
+O frontend pode ser feito com HTML,CSS e JAVASCRIPT;
+
+Pra botar no ár ainda é necessário pesquisar;
+
+O processamento de imagem e correção será feito todo via api;
+
+
